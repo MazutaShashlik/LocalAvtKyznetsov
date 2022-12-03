@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocalAvtKyznetsov</string>
+    <string name="name">Пользователь:</string>
+    <string name="pas">Пароль:</string>
+    <string name="avt">Авторизация</string>
+    <string name="vvediN">Введите имя</string>
+    <string name="vvediP">Введите пароль</string>
+    <string name="kn">Вход</string>
+</resources>
